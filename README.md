@@ -21,9 +21,8 @@
 - Ask your classmates to review your PR (minimum 2)
 - Merge your PR after 2 approvals
 - Then you are done :partying_face:	
-<<<<<<< HEAD
+
+
 
 - Ali Yesil
-=======
-- ALI YESIL
->>>>>>> 4e8859135b8a6409efee5bb7da44e44e32dc650e
+
